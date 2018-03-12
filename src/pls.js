@@ -1,3 +1,5 @@
 window.addEventListener('load', function(){
-    alert('yo !');
+    const sliderContent = document.querySelector('#slider-content');
 });
+
+
